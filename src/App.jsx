@@ -100,7 +100,7 @@ function App() {
 
           <div className="welcome-copy">
             <span className="eyebrow">A little space, just for you</span>
-            <h1>Make yourself at home.</h1>
+            <h1>Make yourself at Sigup.</h1>
             <p>Good things start with a place to belong. Pick up right where you left off.</p>
           </div>
 
